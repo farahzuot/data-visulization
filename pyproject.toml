@@ -6,6 +6,9 @@ authors = ["farahzuot <farahz997@eng.hu.edu.jo>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+jupyterlab = "^2.2.9"
+seaborn = "^0.11.0"
+matplotlib = "^3.3.3"
 
 [tool.poetry.dev-dependencies]
 
